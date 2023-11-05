@@ -1,0 +1,29 @@
+[
+  {
+    "property": "le véhicule",
+    "options": [
+      {
+        "name": "Grande autonomie",
+        "price": "90700"
+      },
+      {
+        "name": "Performance",
+        "price": "106700"
+      }
+    ]
+  },
+
+  {
+    "property": "la couleur",
+    "options": [
+      {
+        "name": "Blanc nacré",
+        "price": "0"
+      },
+      {
+        "name": "Noir carbone",
+        "price": "1000"
+      }
+    ]
+  }
+]
